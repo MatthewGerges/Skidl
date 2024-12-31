@@ -1,0 +1,6 @@
+INFO: No errors or warnings found while generating netlist.
+
+WARNING: kinet2pcb module is missing. Can't generate a KiCad PCB without it. @ [C:\Users\matth\Documents\AI-Skidl-PCB\datalogger-tutorial\datalog1.py:46]
+INFO: 1 warnings found while creating PCB.
+INFO: 0 errors found while creating PCB.
+

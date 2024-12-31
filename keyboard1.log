@@ -1,0 +1,4 @@
+WARNING: Could not load KiCad schematic library "Device", falling back to backup library. @ [C:\Users\matth\Documents\AI-Skidl-PCB\datalogger-tutorial\keyboard1.py:25]
+WARNING: Could not load KiCad schematic library "Device", falling back to backup library. @ [C:\Users\matth\Documents\AI-Skidl-PCB\datalogger-tutorial\keyboard1.py:26]
+INFO: No errors or warnings found while generating netlist.
+
